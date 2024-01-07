@@ -1,0 +1,90 @@
+header {
+  width: 100%;
+}
+.nav-1 {
+  height: 5.7vw;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: space-around;
+}
+.logo {
+  height: 3.5vw;
+}
+.nav-right {
+  display: flex;
+  align-items: center;
+}
+
+.nav-right-1 {
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid rgba(128, 128, 128, 0.486);
+  padding: 0px 10px;
+}
+.line-1 {
+  display: flex;
+  font-size: 0.8vw;
+  font-weight: 600;
+  color: #22cc21;
+  margin-bottom: 3px;
+}
+.line-1 .call {
+  margin-left: 3px;
+}
+.number {
+  font-size: 1vw;
+  font-weight: 600;
+}
+
+.nav-right-2 {
+  border-right: 1px solid rgba(128, 128, 128, 0.486);
+  padding: 0px 10px;
+}
+.nav-right-3 {
+  padding: 0px 12px;
+}
+.whatsapp-logo {
+  height: 3vw;
+}
+
+/* NAV-2************** */
+.nav-2 {
+  height: 2.5vw;
+  background-color: #1e62eb;
+}
+
+.second-nav {
+  height: 100%;
+  width: 100%;
+  background-color: #1e62eb;
+  display: flex;
+  justify-content: center;
+}
+
+.secondnav-para {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.verti {
+  font-size: 0.85vw;
+  font-weight: 600;
+  color: #e8e8e8;
+}
+
+.select {
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.line {
+  font-size: 1.5vw;
+  font-weight: 100;
+  color: rgba(187, 187, 187, 0.639);
+  margin: 0 1vw;
+}
