@@ -2,7 +2,7 @@ main {
   width: 100%;
 }
 .bg {
-  background: url(resource/home-bg.jpg);
+  background: url(resource/home-bg.webp);
   background-position: center;
   background-size: cover;
   height: 35vw;
@@ -227,7 +227,7 @@ figcaption {
 .nano-img {
   height: 18vw;
   width: 72vw;
-  background: url(resource/Rectangle\ 33.png);
+  background: url(resource/Rectangle\ 33.webp);
   background-position: center;
   background-size: cover;
   display: flex;
@@ -406,7 +406,7 @@ figcaption {
 
 /* INQUIRY******************** */
 .inquiry-bg {
-  background: url(resource/Rectangle\ 11.png);
+  background: url(resource/Rectangle\ 11.webp);
   background-position: center;
   background-size: cover;
   height: 34vw;
